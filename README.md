@@ -4,6 +4,8 @@ A supplemental package to `os/user` for working with groups.
 
 Extracted from [https://codereview.appspot.com/13454043](https://codereview.appspot.com/13454043). This package is a temporary solution until the aforementioned patch is merged into Go proper.
 
+Documentation for this project is available at [godoc.org](http://godoc.org/github.com/danryan/go-group/os/group)
+
 ## Usage
 
 ```go
